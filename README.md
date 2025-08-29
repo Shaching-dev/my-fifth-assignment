@@ -24,11 +24,11 @@ For example we have a div and it's  id named "comment" and in this div we have a
 we can select using querySelectorAll method
 document.querySelectorAll("#comment .header-title")
 It returns NodeList.
---------------------Question-2:How do you create and insert a new element into the DOM?.
+Question-2:How do you create and insert a new element into the DOM?.
 Answer: To create an element we use document.createElement() method and to make visisble it in browser                                                                         we use document.body.appendChild("created element name")
 What is Event Bubbling and how does it work?
 What is Event Bubbling and how does it work?
 
----------------------Question-3:What is Event Bubbling and how does it work?
+Question-3:What is Event Bubbling and how does it work?
 
 
