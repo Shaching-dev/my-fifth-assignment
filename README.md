@@ -30,5 +30,8 @@ What is Event Bubbling and how does it work?
 What is Event Bubbling and how does it work?
 
 Question-3:What is Event Bubbling and how does it work?
+Answer: Event bubbling is a process where if you click or change something the browser will change. It happens when  an element receives an event. For example : want to make a function where if i click a button the button's background color will change. So to do that we have to target the button's id to get button id we have to use getElememntById method. Then have to use .addEventListener("click", function(){
 
+}).
 
+Question-4: What is Event Delegation in JavaScript? Why is it useful?
