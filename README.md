@@ -40,5 +40,6 @@ Inside the function we can handle a lot of element at a time .
 })
 
 Question-5: What is the difference between preventDefault() and stopPropagation() methods?
+.
 Answer: preventDefault() methods prevent the default action or behavior to the browser.
 stopPropagation() methods stops event from bubbling in the DOM tree. The event won't happens in parents elements
